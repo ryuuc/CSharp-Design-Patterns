@@ -1,2 +1,1 @@
-# CSharp-Design-Patterns
-Design patterns
+- 策略模式
