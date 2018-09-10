@@ -13,3 +13,5 @@
 **针对接口、抽象类编程** 而不是针对实现编程,即多态
 
 **多用组合，少用继承** 使用组合建立的弹性系统，将算法族封装成类，在运行时动态地改变行为
+
+[Demo](https://github.com/ryuuc/CSharp-Design-Patterns/tree/master/CSharpDesignPatterns/StrategyPattern)
