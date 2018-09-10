@@ -1,6 +1,6 @@
 # 设计模式学习笔记 
 
-## 策略模式 Strategy Pattern
+## 0.策略模式 Strategy Pattern
 
 ### 定义
 
@@ -15,3 +15,7 @@
 **多用组合，少用继承** 使用组合建立的弹性系统，将算法族封装成类，在运行时动态地改变行为
 
 [Demo](https://github.com/ryuuc/CSharp-Design-Patterns/tree/master/CSharpDesignPatterns/StrategyPattern)
+
+## 1.观察者模式 Observer Pattern
+
+### 定义
