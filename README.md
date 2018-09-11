@@ -25,3 +25,5 @@
 ### 设计原则
 
 为了交互对象之间的松耦合设计而努力。
+
+[Demo](https://github.com/ryuuc/CSharp-Design-Patterns/tree/master/CSharpDesignPatterns/ObserverPattern)
