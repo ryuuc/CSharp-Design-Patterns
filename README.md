@@ -1,6 +1,6 @@
 # 设计模式学习笔记 
 
-## 策略模式 Strategy Pattern
+## 0.策略模式 Strategy Pattern
 
 ### 定义
 
@@ -13,3 +13,15 @@
 **针对接口、抽象类编程** 而不是针对实现编程,即多态
 
 **多用组合，少用继承** 使用组合建立的弹性系统，将算法族封装成类，在运行时动态地改变行为
+
+[Demo](https://github.com/ryuuc/CSharp-Design-Patterns/tree/master/CSharpDesignPatterns/StrategyPattern)
+
+## 1.观察者模式 Observer Pattern
+
+### 定义
+
+观察者模式定义了对象之间的一对多依赖，这样一来，当一个对象改变状态时，它的所有依赖者都会收到通知并自动更新。
+
+### 设计原则
+
+为了交互对象之间的松耦合设计而努力。
