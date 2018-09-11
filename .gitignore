@@ -6,3 +6,5 @@
 /CSharpDesignPatterns/CSharpDesignPatterns/obj
 /CSharpDesignPatterns/.vs/CSharpDesignPatterns/v15
 /CSharpDesignPatterns/StrategyPattern/bin/Debug/netcoreapp2.0
+/CSharpDesignPatterns/ObserverPattern/bin/Debug
+/CSharpDesignPatterns/ObserverPattern/obj
