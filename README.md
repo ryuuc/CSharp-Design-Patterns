@@ -27,3 +27,9 @@
 为了交互对象之间的松耦合设计而努力。
 
 [Demo](https://github.com/ryuuc/CSharp-Design-Patterns/tree/master/CSharpDesignPatterns/ObserverPattern)
+
+## 2.装饰者模式 Decorator Pattern
+
+### 定义
+
+动态地将责任附加到对象上，若要扩展功能，装饰者提供了比继承更有弹性的替代方案。
