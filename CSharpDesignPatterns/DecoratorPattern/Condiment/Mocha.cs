@@ -6,14 +6,15 @@
     public class Mocha : CondimentDecorator
     {
         Beverage beverage;
+
         public Mocha(Beverage beverage)
         {
             this.beverage = beverage;
         }
 
-        public override string GetDescription()
+        public override string Description
         {
-            return beverage.GetDescription() + ",Mocha";
+            get { return beverage.Description + ",Mocha"; }
         }
 
         public override double Cost()

@@ -5,8 +5,8 @@
     /// </summary>
     public abstract class Beverage
     {
-        public string description = "Unknown Beverage";
-        public string GetDescription() { return description; }
+        protected string description = "Unknown Beverage";
+        public abstract string Description { get; }
 
         public abstract double Cost();
     }

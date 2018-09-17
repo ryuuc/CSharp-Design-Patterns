@@ -11,9 +11,9 @@
             this.beverage = beverage;
         }
 
-        public override string GetDescription()
+        public override string Description
         {
-            return beverage.GetDescription() + ",Whip";
+            get { return beverage.Description + ",Whip"; }
         }
 
         public override double Cost()
