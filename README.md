@@ -46,4 +46,6 @@
 
 装饰者可以在所委托被装饰者的行为之前 与/或 之后，加上自己的行为
 
+[Demo](https://github.com/ryuuc/CSharp-Design-Patterns/tree/master/CSharpDesignPatterns/DecoratorPattern)
+
 
