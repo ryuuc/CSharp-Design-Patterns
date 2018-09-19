@@ -48,4 +48,10 @@
 
 [Demo](https://github.com/ryuuc/CSharp-Design-Patterns/tree/master/CSharpDesignPatterns/DecoratorPattern)
 
+## 3.工厂模式
+
+### 定义
+
+定义一个创建对象的接口，但由子类来决定要实例化的类是哪一个。工厂方法让类把实例化推迟到子类
+
 
