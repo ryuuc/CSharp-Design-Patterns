@@ -13,3 +13,4 @@
 /CSharpDesignPatterns/.vs/CSharpDesignPatterns/DesignTimeBuild
 /.vs
 /CSharpDesignPatterns/FactoryPattern/obj
+/CSharpDesignPatterns/FactoryPattern/bin/Debug/netcoreapp2.0
