@@ -18,7 +18,7 @@ namespace FactoryPattern
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Adding topping: ");
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Toppings.ForEach(x => Console.WriteLine($"  {x}"));
+            Toppings.ForEach(x => Console.WriteLine($" {x}"));
         }
 
         internal virtual void Bake() => Console.WriteLine("Bake for 25 minutes for 350.");
