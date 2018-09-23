@@ -13,6 +13,6 @@ namespace FactoryPattern
             Toppings.Add("NYStyleVeggiePizza Cheese");
         }
 
-        internal new void Bake() => Console.WriteLine("NYStyleVeggiePizza Bake");
+        internal override void Bake() => Console.WriteLine("NYStyleVeggiePizza Bake");
     }
 }

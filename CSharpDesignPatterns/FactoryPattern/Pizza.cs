@@ -21,8 +21,8 @@ namespace FactoryPattern
             Toppings.ForEach(x => Console.WriteLine($"  {x}"));
         }
 
-        internal void Bake() => Console.WriteLine("Bake for 25 minutes for 350.");
-        internal void Cut() => Console.WriteLine("Cutting the pizza into diagonal slices.");
-        internal void Box() => Console.WriteLine("Place pizza in offical PizzaStore box.");
+        internal virtual void Bake() => Console.WriteLine("Bake for 25 minutes for 350.");
+        internal virtual void Cut() => Console.WriteLine("Cutting the pizza into diagonal slices.");
+        internal virtual void Box() => Console.WriteLine("Place pizza in offical PizzaStore box.");
     }
 }

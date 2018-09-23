@@ -13,6 +13,6 @@ namespace FactoryPattern
             Toppings.Add("ChicagoStyleVeggiePizza Cheese");
         }
 
-        internal new void Box() => Console.WriteLine("ChicagoStyleVeggiePizza Box");
+        internal override void Box() => Console.WriteLine("ChicagoStyleVeggiePizza Box");
     }
 }
