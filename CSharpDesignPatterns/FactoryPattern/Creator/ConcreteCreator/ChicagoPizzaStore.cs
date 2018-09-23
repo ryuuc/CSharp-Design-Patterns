@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FactoryPattern
+namespace FactoryMethod
 {
     public class ChicagoPizzaStore : PizzaStore
     {

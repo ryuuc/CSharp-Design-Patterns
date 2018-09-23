@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace FactoryPattern
+namespace FactoryMethod
 {
     public class NYPizzaStore:PizzaStore
     {

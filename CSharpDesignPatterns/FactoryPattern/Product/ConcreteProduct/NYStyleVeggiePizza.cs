@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FactoryPattern
+namespace FactoryMethod
 {
     internal class NYStyleVeggiePizza : Pizza
     {

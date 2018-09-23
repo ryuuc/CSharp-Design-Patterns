@@ -1,4 +1,4 @@
-﻿namespace FactoryPattern
+﻿namespace FactoryMethod
 {
     public abstract class PizzaStore
     {
